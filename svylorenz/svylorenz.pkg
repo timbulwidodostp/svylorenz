@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'svylorenz': Quantile group shares, cumulative shares (Lorenz ordinates), generalized Lorenz ordinates, and Gini coefficient Use svylorenz With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f svylorenz.ado
+f svylorenz.hlp
