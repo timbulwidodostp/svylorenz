@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p svylorenz Quantile group shares, cumulative shares (Lorenz ordinates), generalized Lorenz ordinates, and Gini coefficient Use svylorenz With STATA 18
