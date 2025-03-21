@@ -3,6 +3,8 @@ Quantile group shares, cumulative shares (Lorenz ordinates), generalized Lorenz 
 
 Derive distribution-free variance estimates from complex survey data, of quantile group shares of a total, cumulative quantile group shares Use svylorenz With STATA 18
 
+https://www.youtube.com/watch?v=Lu_bA483mVY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
